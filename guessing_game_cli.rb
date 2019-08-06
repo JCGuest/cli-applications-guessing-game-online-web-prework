@@ -8,7 +8,6 @@ input = gets.chomp
     elsif input.downcase == "exit"
     puts "Goodbye"
     else 
-    puts  else
     puts "Sorry! The computer guessed #{randy}."
   end
   
